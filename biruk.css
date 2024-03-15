@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.section1 {
+    background: url('slider-2-1.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+    width: auto;
+}
